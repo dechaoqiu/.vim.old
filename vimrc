@@ -1,6 +1,7 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => General
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+command! W w !sudo tee % > /dev/null
 " 关闭兼容模式
 set nocompatible
 " Sets how many lines of history VIM has to remember
