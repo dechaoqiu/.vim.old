@@ -1,3 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_cnt =7
 let g:netrw_dirhist_1='/Users/Reno/Downloads/EGG.framework'
+let g:netrw_dirhist_2='/Users/Reno/Documents/Workspaces/Reno/octopress/.git'
+let g:netrw_dirhist_3='/Library/WebServer/Documents'
+let g:netrw_dirhist_4='/Users/Reno/Desktop/compliant_innovations/ses_credentials'
+let g:netrw_dirhist_5='/Users/Reno/Documents/Workspaces/Python/crashdb'
+let g:netrw_dirhist_6='/Users/Reno/Documents/Workspaces/Python'
+let g:netrw_dirhist_7='/Users/Reno/Documents/Workspaces/Ruby/lms'
